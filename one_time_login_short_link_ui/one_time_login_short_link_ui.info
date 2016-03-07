@@ -1,0 +1,9 @@
+name = One Time Login Short Link UI
+description = "UI for One-Time Login Short Link module. Allows to create links using 'Administration/People' page."
+core = 7.x
+version = "7.x-1.2"
+package = Authentication
+
+dependencies[] = one_time_login_short_link
+dependencies[] = user
+

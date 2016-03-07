@@ -1,0 +1,8 @@
+name = One Time Login Short Link
+description = "An API module which generates one-time login short links."
+core = 7.x
+version = "7.x-1.2"
+package = Authentication
+
+files[] = one_time_login_short_link.rules.inc
+files[] = one_time_login_short_link.test
