@@ -1,4 +1,4 @@
-The lightweight replacement for '[Login one time](https://www.drupal.org/project/login_one_time)' and '[One-time login](https://www.drupal.org/project/one_time_login)' modules.
+[One-Time Login Short Link](https://www.drupal.org/project/one_time_login_short_link) module is the **lightweight** replacement for '[Login one time](https://www.drupal.org/project/login_one_time)' and '[One-time login](https://www.drupal.org/project/one_time_login)' modules.
 
 Module creates short and secure links  for one-time login. Links looks like http://example.com/g47Gv2K3. Each link has configurable expire date. Each link could be used only once. This module also supports redirecting the user to a specific internal URL after using the one time login link.
 
