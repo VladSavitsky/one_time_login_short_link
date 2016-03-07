@@ -30,7 +30,7 @@ This module provides only one simple and clear API-function: one_time_login_shor
     $expire = '+1 day',
         // Optional. Default is '+1 day'. Possible values are:
         // Number of seconds from now or from the Unix Epoc
-        // or any date which [function strtotime()](http://php.net/manual/en/function.strtotime.php) could handle.
+        // or any date which function strtotime() could handle.
     $redirect = 'node/add'
         // Optional. Internal page to redirect to.
   );
